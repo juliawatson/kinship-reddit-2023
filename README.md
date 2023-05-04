@@ -2,7 +2,7 @@
 
 This project includes the code for the paper:
 
-Watson, J., Walker, S., Stevenson, S., & Beekhuizen, B. (2021) Communicative need shapes choices to use gendered vs. gender-neutral kinship terms across online communities. In CogSci.
+> Watson, J., Walker, S., Stevenson, S., & Beekhuizen, B. (2021) Communicative need shapes choices to use gendered vs. gender-neutral kinship terms across online communities. In CogSci.
 
 
 The data for this project can be found here: https://osf.io/q4gfd/
