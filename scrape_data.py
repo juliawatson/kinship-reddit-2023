@@ -39,7 +39,7 @@ OUTPUT_DIR = "data/kinship_terms_json"
 TERMS_FILE = 'terms.csv'
 
 # The list of subreddits to scrape data from.
-SUBREDDITS = ["dating", "datingoverthirty"]
+SUBREDDITS = ["AskReddit", "askscience", "Parenting", "entitledparents"]
 
 # The maximum number of comments to scrape per subreddit.
 # This script starts with the most recent comments and works backward.
