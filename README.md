@@ -4,7 +4,6 @@
 These are files for collecting the frequency of kinship terms per every ten million words.   
 1. `collect_data.py`: This goes through each subreddit and writes the frequency of each
   term per million in its own csv file in the folder `data/part_1_need_probabilities/`.
-    **NOTE: what is the ../scripts file**
 
 ### Main dataset
 These are files used to create the dataset we analyzed. 
