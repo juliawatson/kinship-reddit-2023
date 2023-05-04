@@ -1,3 +1,15 @@
+# Communicative need and kinship terms
+
+This project includes the code for the paper:
+
+Watson, J., Walker, S., Stevenson, S., & Beekhuizen, B. (2021) Communicative need shapes choices to use gendered vs. gender-neutral kinship terms across online communities. In CogSci.
+
+
+The data for this project can be found here: https://osf.io/q4gfd/
+
+The sections that follow describe how this data was collected and how it is stored ("Data Collection and Processing"), as well as the scripts used to conduct the analyses for the paper ("Analyses").
+
+
 ## Data Collection and Processing
 
 ### Frequency dataset
