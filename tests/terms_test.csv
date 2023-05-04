@@ -1,0 +1,10 @@
+term,lemma,group,gender_neutral
+sister,sister,sibling,False
+sisters,sister,sibling,False
+significant other,significant other,partner,True
+significant others,significant other,partner,True
+child,child,child,True
+children,child,child,True
+wife,wife,partner,False
+wives,wife,partner,False
+s/o,s/o,partner,True

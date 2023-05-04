@@ -1,0 +1,9 @@
+gendered,singular,specific,subreddit_AskWomen,subreddit_AskMen,kinship_term_child,kinship_term_parent,kinship_term_partner,kinship_term_sibling
+0,-1,-1,0,1,0,1,0,0
+0,-1,-1,0,1,1,0,0,0
+1,1,1,0,1,0,0,1,0
+1,1,-1,0,1,0,1,0,0
+1,1,-1,0,0,0,1,0,0
+0,-1,-1,0,0,1,0,0,0
+0,-1,-1,0,0,1,0,0,0
+1,-1,-1,1,0,0,0,0,1

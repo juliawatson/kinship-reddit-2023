@@ -1,0 +1,4 @@
+term,lemma,group,gender_neutral
+sisters,sister,sibling,False
+sister,sister,sibling,False
+s/o,s/o,partner,True
